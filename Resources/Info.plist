@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>fr</string>
+	<key>CFBundleDisplayName</key>
+	<string>NetDesk</string>
+	<key>CFBundleExecutable</key>
+	<string>NetDesk</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.example.NetDesk</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>NetDesk</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>NetDesk passe par System Events pour retirer une app de l'ouverture à la connexion, et par le Finder pour mettre à la Corbeille une app qui appartient au système.</string>
+	<key>NSDesktopFolderUsageDescription</key>
+	<string>NetDesk cherche les gros fichiers, doublons et installeurs sur ton Bureau.</string>
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>NetDesk cherche les gros fichiers, doublons et installeurs dans Documents.</string>
+	<key>NSDownloadsFolderUsageDescription</key>
+	<string>NetDesk trie tes téléchargements et repère les installeurs oubliés.</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>NSRemovableVolumesUsageDescription</key>
+	<string>NetDesk lit la Corbeille des disques branchés.</string>
+</dict>
+</plist>

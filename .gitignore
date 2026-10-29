@@ -1,0 +1,8 @@
+.build/
+.swiftpm/
+.DS_Store
+# Local settings and notes, never published
+local.env
+INVENTAIRE.md
+*.p12
+*.pem
